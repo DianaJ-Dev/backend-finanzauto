@@ -79,6 +79,19 @@ fuera del código fuente y más fáciles de manejar.
 $ npm install dotenv
 ```
 
+### `Api`
+Esta API contiene las opiniones buenas y malas de los productos
+las cuales obtenemos para generar el resumen. 
+
+```text
+$ https://scrapper-service-auto.onrender.com/scrapper-service/
+```
+
+```text
+$ https://github.com/DianaJ-Dev/scrapper-service-auto
+```
+
+
 ## 3. Futuras mejoras
 
 * [ ] Optimización del rendimiento: Mejorar la velocidad 
